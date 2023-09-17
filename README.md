@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush Kavariya
 - 👀 I’m interested in Database Manegement and Coding
-- 🌱 I’m currently learning c++
+- 🌱 Knowledge of c++, c#.net, sql, dbms, python
 - 💞️ 
 - 📫
 
